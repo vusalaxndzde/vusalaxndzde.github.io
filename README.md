@@ -1,3 +1,3 @@
 # vusalaxndzde.github.io
 
-<a href="https://vusalaxndzde.github.io" target="_blank">vusalaxndzde.github.io</a>
+<a href="https://vusalaxndzde.github.io">vusalaxndzde.github.io</a>
